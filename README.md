@@ -1,2 +1,2 @@
 # digital_credentials
-Simple simulator of digital credentials
+Simple simulator to understand the mechanism of "Digital credentials"
